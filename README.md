@@ -1,3 +1,5 @@
+<p align="right"><img src="https://github.com/isc-at/CPIPE/blob/master/archived.jpg"/></p>
+
 This is a demo to make use of a simple WebSocket Client with Embedded Python in IRIS.  
 
 ## Prerequisites
